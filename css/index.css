@@ -1385,7 +1385,7 @@ canvas:not(#ribbon-canvas),
   --tab-button-active-bg: #fff;
   --card-bg: #fff;
   --sidebar-bg: #f6f8fa;
-  --btn-hover-color: #ff7242;
+  --btn-hover-color: #ffc0cb;
   --btn-color: #fff;
   --btn-bg: #49b1f5;
   --text-bg-hover: rgba(73,177,245,0.7);
@@ -1399,7 +1399,7 @@ canvas:not(#ribbon-canvas),
   --toc-link-color: #666261;
   --card-box-shadow: 0 3px 8px 6px rgba(7,17,27,0.05);
   --card-hover-box-shadow: 0 3px 8px 6px rgba(7,17,27,0.09);
-  --pseudo-hover: #ff7242;
+  --pseudo-hover: #ffc0cb;
   --headline-presudo: #a0a0a0;
   --scrollbar-color: #49b1f5;
   --default-bg-color: #49b1f5;
@@ -2406,7 +2406,7 @@ figure.highlight pre .javascript .function {
   cursor: default;
 }
 #recent-posts > .recent-post-item >.recent-post-info > .article-meta-wrap .sticky {
-  color: #ff7242;
+  color: #ffc0cb;
 }
 #recent-posts > .recent-post-item >.recent-post-info > .article-meta-wrap i {
   margin: 0 4px 0 0;
@@ -3139,7 +3139,7 @@ h1.page-title + .tag-cloud-list {
   color: #49b1f5;
 }
 #post-comment .comment-head #comment-switch .second-comment {
-  color: #ff7242;
+  color: #ffc0cb;
 }
 #post-comment .comment-head #comment-switch .switch-btn {
   position: relative;
@@ -3173,7 +3173,7 @@ h1.page-title + .tag-cloud-list {
   transition: 0.4s;
 }
 #post-comment .comment-head #comment-switch .switch-btn.move {
-  background-color: #ff7242;
+  background-color: #ffc0cb;
 }
 #post-comment .comment-head #comment-switch .switch-btn.move:before {
   -webkit-transform: translateX(20px);
@@ -4517,7 +4517,7 @@ h1.page-title + .tag-cloud-list {
 #waline-wrap {
   --waline-font-size: 1.1em;
   --waline-theme-color: #49b1f5;
-  --waline-active-color: #ff7242;
+  --waline-active-color: #ffc0cb;
 }
 #waline-wrap .wl-comment-actions > button:not(last-child) {
   padding-right: 4px;
