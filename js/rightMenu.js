@@ -187,4 +187,14 @@ $("#rightmenu-mask").contextmenu(function () {
     removeRightMenu();
     return false;
 });
-
+$("#menu-radompage").on("click", function () {
+    var h = [
+        "https://kaychenvip.github.io/music/",
+        "https://kaychenvip.github.io/gallery/index.html" ,
+        "https://kaychenvip.github.io/comment/index.html",
+        "https://kaychenvip.github.io/user/index.html",
+        "https://kaychenvip.github.io/archives/index.html"   ]
+    n = Math.floor(Math.random() * h.length), location.href = h[n]
+    window.href = n
+    removeRightMenu();
+});
