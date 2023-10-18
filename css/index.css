@@ -1412,7 +1412,7 @@ body {
   background: var(--global-bg);
   color: var(--font-color);
   font-size: var(--global-font-size);
-  font-family: 楷体;
+  font-family: ����;
   line-height: 2;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
