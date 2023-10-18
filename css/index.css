@@ -448,6 +448,13 @@ canvas:not(#ribbon-canvas),
   -ms-animation: scroll-down-effect 1.5s infinite;
   animation: scroll-down-effect 1.5s infinite;
 }
+.avatar-img {
+  -webkit-animation: avatar_turn_around 2s linear infinite;
+  -moz-animation: avatar_turn_around 2s linear infinite;
+  -o-animation: avatar_turn_around 2s linear infinite;
+  -ms-animation: avatar_turn_around 2s linear infinite;
+  animation: avatar_turn_around 2s linear infinite;
+}
 .reward-main {
   -webkit-animation: donate_effcet 0.3s 0.1s ease both;
   -moz-animation: donate_effcet 0.3s 0.1s ease both;
@@ -1438,7 +1445,7 @@ input::placeholder {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: url(https://github.com/KayCHENvip/Gallery/assets/128878325/d3911424-fce9-43e5-b719-3caa88a07d85);
+  background: url(https://s2.loli.net/2023/10/18/vIUYzBiquCGakwo.jpg);
   background-attachment: local;
   background-position: center;
   background-size: cover;
